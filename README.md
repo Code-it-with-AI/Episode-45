@@ -1,7 +1,7 @@
 # Episode-45: Qwen 3.8 on NInfer
 After testing multiple runtimes for hosting Qwen, Carl finally settles on NInfer.
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/jeMaclq1oPY
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
